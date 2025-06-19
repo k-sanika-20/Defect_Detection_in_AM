@@ -49,4 +49,4 @@ This repository contains a PyTorch implementation of a **U-Net** model designed 
 
 ### 🐍 Requirements
 ```bash
-pip install torch torchvision tqdm matplotlib
+pip install torch torchvision opencv-python streamlit numpy pillow
